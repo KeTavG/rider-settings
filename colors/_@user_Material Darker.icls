@@ -4,7 +4,7 @@
     <property name="created">2020-09-07T23:25:15</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-09-08T02:26:56</property>
+    <property name="modified">2020-09-08T02:46:45</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -113,11 +113,6 @@
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
-      </value>
-    </option>
-    <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
@@ -3114,11 +3109,6 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="ffcb6b" />
-      </value>
-    </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
@@ -3529,11 +3519,6 @@
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
-      </value>
-    </option>
-    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
