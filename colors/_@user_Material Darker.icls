@@ -4,7 +4,7 @@
     <property name="created">2020-09-07T23:25:15</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-09-08T02:46:45</property>
+    <property name="modified">2020-09-08T21:36:38</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -175,9 +175,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -444,7 +441,7 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -900,17 +897,17 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_COMMENT" baseAttributes="" />
+    <option name="HAML_FILTER" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="c792ea" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_RUBY_START" baseAttributes="" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -923,7 +920,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
+    <option name="HAML_TEXT" baseAttributes="" />
     <option name="HAML_WS_REMOVAL">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -931,7 +928,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_XHTML" baseAttributes="" />
     <option name="HOCON_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -1314,7 +1311,7 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="323232" />
@@ -1363,6 +1360,11 @@
     <option name="KOTLIN_EXCLEXCL">
       <value>
         <option name="FOREGROUND" value="89ddff" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
@@ -3541,7 +3543,7 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="607d8b" />
@@ -3577,7 +3579,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="eeffff" />
