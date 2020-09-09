@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="107" />
+  <option name="RIGHT_MARGIN" value="99" />
+  <option name="SOFT_MARGINS" value="79" />
   <stylecop>
     <option name="ENABLED" value="true" />
   </stylecop>
