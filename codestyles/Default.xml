@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="SOFT_MARGINS" value="80" />
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="99" />
     <option name="WRAP_LONG_LINES" value="true" />
